@@ -101,6 +101,12 @@ To deploy the app in a production environment:
 
 This will serve the backend and frontend as a single application.
 
+## API Documentation
+
+You can access the Swagger API documentation at:
+
+    Swagger Documentation: http://localhost:3000/api-docs
+
 ## License
 
 This project is licensed under the MIT License. See the <a href="https://github.com/daianaadepaula/mern-products-auth/blob/main/LICENSE">License</a> file for more information.
